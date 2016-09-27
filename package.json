@@ -1,0 +1,12 @@
+{
+  "name": "xlists3-server",
+  "version": "3.0.0",
+  "description": "X-Lists 3 Server",
+  "author": "Adam Bryzak",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.14.0",
+    "passport": "^0.3.2",
+    "rethinkdb": "^2.3.3"
+  }
+}
