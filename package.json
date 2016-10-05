@@ -4,6 +4,7 @@
   "description": "X-Lists 3 Server",
   "author": "Adam Bryzak",
   "license": "MIT",
+  "repository": "https://github.com/abryzak/xlists3-server.git",
   "dependencies": {
     "express": "^4.14.0",
     "passport": "^0.3.2",
